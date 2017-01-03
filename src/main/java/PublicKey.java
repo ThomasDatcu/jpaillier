@@ -1,5 +1,3 @@
-package de.henku.jpaillier;
-
 import java.math.BigInteger;
 import java.util.Random;
 
